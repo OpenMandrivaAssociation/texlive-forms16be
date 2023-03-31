@@ -1,6 +1,6 @@
 Name:		texlive-forms16be
 Version:	51305
-Release:	1
+Release:	2
 Summary:	Initialize form properties using big-endian encoding
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/forms16be
